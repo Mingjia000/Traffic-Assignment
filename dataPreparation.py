@@ -6,8 +6,8 @@ Created on Sun May 28 21:09:46 2017
 """
 
 
-inputLocation = 'Raw Data/'
-inputLocation2 = 'Data/'
+inputLocation = 'my network/'
+inputLocation2 = 'new net/'
 
 
 od = {}

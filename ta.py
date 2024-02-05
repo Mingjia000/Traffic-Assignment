@@ -10,7 +10,7 @@ import heapq
 import numpy as np
 from scipy import optimize
 
-inputLocation = "Sioux Falls network/"
+inputLocation = "my network/"
 
 class Zone:
     def __init__(self, _tmpIn):
